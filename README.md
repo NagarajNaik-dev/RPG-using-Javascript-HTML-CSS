@@ -39,7 +39,27 @@ The goal is to defeat the dragon that’s preventing people from leaving the tow
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your game running in the browser here — even one image makes the repo more engaging!)*
+### 🏙️ Town Square
+![Town Square](images/townsquare.png)
+
+### 🛒 Store
+![Store](images/store.png)
+
+### 🕸️ Cave Encounter
+![Cave](images/cave.png)
+
+### 🐉 Dragon Battle
+![Dragon Fight](images/fightingdragon.png)
+
+### ☠️ Game Over
+![Game Over](images/gameover.png)
+
+### 🏆 Victory Screen
+![Win](images/win.png)
+
+###🤞🥚EasterEgg screen
+![lucky](images/easterEgg.png)
+
 
 ---
 
