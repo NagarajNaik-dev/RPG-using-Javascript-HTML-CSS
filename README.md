@@ -37,28 +37,37 @@ The goal is to defeat the dragon that’s preventing people from leaving the tow
 - **JavaScript**: Game logic, combat system, and interactivity.
 
 ---
-
 ## 📸 Screenshots
+
 ### 🏙️ Town Square
-![Town Square](images/townsquare.png)
+![Town Square](images/townsquare.png)  
+*Start your journey with basic stats and options.*
 
 ### 🛒 Store
-![Store](images/store.png)
+![Store](images/store.png)  
+*Buy health or weapons to prepare for battles.*
 
 ### 🕸️ Cave Encounter
-![Cave](images/cave.png)
+![Cave](images/cave.png)  
+*Face monsters like slime and fanged beasts.*
 
 ### 🐉 Dragon Battle
-![Dragon Fight](images/fightingdragon.png)
+![Dragon Fight](images/fightingdragon.png)  
+*Final boss fight against the dragon with 300 health.*
 
 ### ☠️ Game Over
-![Game Over](images/gameover.png)
+![Game Over](images/gameover.png)  
+*Replay option after defeat — keep trying until you win!*
 
 ### 🏆 Victory Screen
-![Win](images/win.png)
+![Win](images/win.png)  
+*Celebrate your victory after defeating the dragon.*
 
-###🤞🥚EasterEgg screen
-![lucky](images/easterEgg.png)
+### 🎁 Easter Egg
+![Easter Egg](images/easterEgg.png)  
+*A hidden surprise for curious players — can you find it?*
+
+
 
 
 ---
