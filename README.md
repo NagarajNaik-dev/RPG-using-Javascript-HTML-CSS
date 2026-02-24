@@ -3,7 +3,7 @@
 A simple browser-based RPG game built with **HTML, CSS, and JavaScript**.  
 The goal is to defeat the dragon that’s preventing people from leaving the town. Along the way, you can explore, fight monsters, buy weapons, and manage your health and gold.
 
-**🔗 Live Demo:**[]
+**🔗 Live Demo:**[Dragon Repeller] (https://nagarajnaik-dev.github.io/RPG-using-Javascript-HTML-CSS/)
 
 ---
 
