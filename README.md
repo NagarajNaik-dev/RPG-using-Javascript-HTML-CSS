@@ -1,43 +1,45 @@
 # RPG – Dragon Repeller 🐉
 
-A simple browser-based RPG game built with **HTML, CSS, and JavaScript**.  
-The goal is to defeat the dragon that’s preventing people from leaving the town. Along the way, you can explore, fight monsters, buy weapons, and manage your health and gold.
+A browser-based RPG game built with **HTML, CSS, and JavaScript**.  
+The goal is to defeat the dragon blocking the town’s exit. Along the way, players can explore, fight monsters, buy weapons, and manage health and gold.  
+
 **🔗 Live Demo:** [Dragon Repeller](https://nagarajnaik-dev.github.io/RPG-using-Javascript-HTML-CSS/)
 
 ---
 
 ## 🎮 How to Play
-- Start in the **town square** with some gold, health, and a basic weapon.
+- Start in the **town square** with gold, health, and a basic weapon.
 - Use the buttons to:
-  - Go to the **store** (buy health or weapons).
+  - Visit the **store** (buy health or weapons).
   - Enter the **cave** (fight monsters).
   - Challenge the **dragon** (final boss).
 - Combat is turn-based:
   - Attack with your weapon.
   - Dodge to avoid damage.
-  - Run back to town if things get tough.
+  - Retreat to town if needed.
 - Defeat monsters to gain **XP** and **gold**.
-- Upgrade your weapons and survive long enough to face the dragon.
-- There’s even a hidden **easter egg mini-game** if you discover it!
+- Upgrade weapons and survive long enough to face the dragon.
+- Discover a hidden **easter egg mini-game** for bonus rewards.
 
 ---
 
 ## ✨ Features
-- **Stats tracking**: XP, Health, Gold displayed live.
+- **Live stats tracking**: XP, Health, Gold.
 - **Inventory system**: Collect and upgrade weapons.
 - **Monster battles**: Slime, fanged beast, and the dragon.
 - **Store mechanics**: Buy or sell items to stay alive.
-- **Replay option**: Restart the game after winning or losing.
-- **Easter egg game**: A fun number-guessing challenge for bonus rewards.
+- **Replay option**: Restart after winning or losing.
+- **Easter egg mini-game**: A number-guessing challenge with rewards.
 
 ---
 
 ## 🛠️ Tech Stack
 - **HTML**: Game structure and UI.
-- **CSS**: Styling for retro RPG vibes.
+- **CSS**: Styling with retro RPG vibes.
 - **JavaScript**: Game logic, combat system, and interactivity.
 
 ---
+
 ## 📸 Screenshots
 
 ### 🏙️ Town Square
@@ -68,19 +70,16 @@ The goal is to defeat the dragon that’s preventing people from leaving the tow
 ![Easter Egg](images/easterEgg.png)  
 *A hidden surprise for curious players — can you find it?*
 
-
-
-
 ---
 
 ## 🚀 Future Improvements
 - Add sound effects and background music.
 - Animate attacks and monster health bars.
-- More monsters, weapons, and locations.
-- Mobile-friendly responsive design.
+- Introduce more monsters, weapons, and locations.
+- Make the game mobile-friendly with responsive design.
 
 ---
 
-## 🙌 Credits
-Created by **Nagaraj Lakshman Naik**, second-year BCA student.  
-This project helped me practice DOM manipulation, arrays, objects, and game logic while building something fun and interactive.
+## 🧑‍💻 Author
+Created by **Nagaraj Lakshman Naik**  
+This project explores web development concepts such as DOM manipulation, arrays, objects, and game logic, while delivering a fun and interactive RPG experience.
